@@ -1,3 +1,4 @@
+//array of buttons so that i can assign them functions easily
 for(var i=0; i<document.querySelectorAll(".color").length;i++){
 
     document.querySelectorAll(".color")[i].addEventListener("click", function(){
